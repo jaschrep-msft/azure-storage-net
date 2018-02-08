@@ -23,5 +23,8 @@
       "Blob/*.cs"
     ],
     "define": [ "SIGN" ]
+  },
+  "dependencies": {
+    "Microsoft.Azure.Storage.Common": "9.0.0.1-preview"
   }
 }
