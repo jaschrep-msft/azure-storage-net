@@ -18,7 +18,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using Microsoft.WindowsAzure.Storage.Shared.Protocol;
+using Microsoft.Azure.Storage.Shared.Protocol;
 #if WINDOWS_DESKTOP
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 #else

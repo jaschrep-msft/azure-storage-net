@@ -9,7 +9,7 @@
     "Microsoft.Azure.Storage.Blob": "9.0.0-preview",
     "Microsoft.Azure.Storage.File": "9.0.0-preview",
     "Microsoft.Azure.Storage.Queue": "9.0.0-preview",
-    "Microsoft.Azure.Storage.Common": "9.0.0.0-preview"
+    "Microsoft.Azure.Storage.Common": "9.0.0-preview"
   },
 
     "frameworks": {
