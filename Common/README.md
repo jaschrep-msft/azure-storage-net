@@ -1,4 +1,4 @@
-﻿# Microsoft Azure Storage Common SDK for .NET (9.1.1-preview)
+﻿# Microsoft Azure Storage Common SDK for .NET (9.4.0.2-preview)
 
 The Microsoft Azure Storage Common SDK for .NET is referenced by Azure Storage Blob/Queue/File SDKs and Azure CosmosDB Table SDK
 and should not be referenced directly by your application.
@@ -8,10 +8,8 @@ For the best development experience, developers should use the official Microsof
 ## Target Frameworks
 
 - .NET Framework 4.5: As of December 2016, Storage Client Libraries for .NET supports primarily the desktop .NET Framework 4.5.0 release and above.
-- Windows 8.1 for Windows Store app development: Storage Client Libraries are available for Windows Store applications.
-- Windows Phone 8.1 app development: Storage Client Libraries are available for Windows Phone applications including Universal applications.
 - Netstandard1.3: Storage Client Libraries for .NET are available to support Netstandard application development including Xamarin/UWP applications. 
-- Netstandard2.0: Storage Client Libraries for .NET are available to support Netstandard application development including Xamarin/UWP applications. 
+- Netstandard2.0: Storage Client Libraries for .NET are available to support Netstandard2.0 application development including Xamarin/UWP applications. 
 - Netstandard1.0: Storage Client Libraries support PCL through a Netstandard Façade targeting netstandard1.0.
 
 ### Netstandard1.0 (Façade)
